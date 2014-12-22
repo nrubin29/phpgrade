@@ -1,0 +1,40 @@
+.orange {
+    background: orange;
+    color: white;
+}
+
+.red {
+    background: red;
+    color: white;
+}
+
+.blue {
+    background: cornflowerblue;
+    color: white;
+}
+
+.green {
+    background: green;
+    color: white;
+}
+
+.brown {
+    background: saddlebrown;
+    color: white;
+}
+
+.black {
+    background: black;
+    color: white;
+}
+
+.gray {
+    background: gray;
+    color: white;
+}
+
+.center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+}
